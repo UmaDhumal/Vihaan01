@@ -6,6 +6,10 @@ public class A {
 	{
 		System.out.println("Class A from Uma");
 	}
+	public void m2()
+	{
+		System.out.println("Class A from Om");
+	}
 
 	public static void main(String[] args) 
 	{
