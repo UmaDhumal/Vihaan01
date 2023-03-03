@@ -11,5 +11,9 @@ public class A
 	{
 		System.out.println("m1 by Uma");
 	}
+	public void m2()
+	{
+		System.out.println("m1 by Vihaan");
+	}
 
 }
